@@ -1,15 +1,14 @@
-<h1 align="center">Hi 👋, I'm Muhammad Hammad</h1>
-<h3 align="center">A zealous Frontend Developer and tech enthusiast.</h3>
+<h1 align="center">Hi, I'm Muhammad Hammad</h1>
+<h3 align="center">A DevOps learner exploring Docker, CI/CD & Cloud. Building projects, sharing progress, and growing daily.
+
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadhamad&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadhamad" /> </p>
 
-- 🔭 I’m currently working on **Javascript and React JS...**
 
-- 🌱 I’m currently learning **Node and Express**
+- 🌱 I’m currently learning **Linux, Docker, and Bash**
 
 - 👯 I’m looking to collaborate on **open source projects...**
-
-- 💬 Ask me about **Front-End**
 
 - 📫 How to reach me **itshammadofficial@gmail.com**
 
